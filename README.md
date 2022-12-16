@@ -34,7 +34,7 @@ Text content is available in very large amounts and one can spend hours on readi
 
 ## Live Link
 
-https://my--text--summarizer.herokuapp.com/
+https://text-summarizer-gdvs.onrender.com/
 
 
 
